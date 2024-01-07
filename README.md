@@ -3,15 +3,15 @@ The Patient Wait List Insights Dashboard is a Power BI project. This project inv
 
 **Key Components:** 
 
-Data Collection: Gather data from diverse sources, including hospital databases and electronic health records, to compile a comprehensive dataset.
+-Data Collection: Gather data from diverse sources, including hospital databases and electronic health records, to compile a comprehensive dataset.
 
-Data Cleaning: Process and clean the collected data to ensure accuracy and consistency for reliable analysis.
+-Data Cleaning: Process and clean the collected data to ensure accuracy and consistency for reliable analysis.
 
-Data Visualization: Utilize Power BI's visualization tools to create insightful charts, graphs, and tables that showcase patient wait times, trends, and performance metrics.
+-Data Visualization: Utilize Power BI's visualization tools to create insightful charts, graphs, and tables that showcase patient wait times, trends, and performance metrics.
 
-Dashboard Development: Design an intuitive and user-friendly dashboard interface that allows for easy navigation and interaction with the data.
+-Dashboard Development: Design an intuitive and user-friendly dashboard interface that allows for easy navigation and interaction with the data.
 
-Interactivity: Implement interactive features such as filters and drill-down options to enable deeper exploration and understanding of the data.
+-Interactivity: Implement interactive features such as filters and drill-down options to enable deeper exploration and understanding of the data.
 
 **Project Goal:** 
 To create a compact yet impactful Power BI Dashboard that enables healthcare professionals to efficiently analyze patient wait times and make informed decisions for optimizing healthcare services.
