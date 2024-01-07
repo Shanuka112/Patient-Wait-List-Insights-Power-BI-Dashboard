@@ -13,8 +13,8 @@ Dashboard Development: Design an intuitive and user-friendly dashboard interface
 
 Interactivity: Implement interactive features such as filters and drill-down options to enable deeper exploration and understanding of the data.
 
-** Project Goal:** 
+**Project Goal:** 
 To create a compact yet impactful Power BI Dashboard that enables healthcare professionals to efficiently analyze patient wait times and make informed decisions for optimizing healthcare services.
 
-** Expected Outcome:** 
+**Expected Outcome:** 
 A visually appealing and functional dashboard that offers healthcare administrators and professionals a quick and comprehensive view of patient wait list metrics, facilitating improved resource management and enhanced patient care.
